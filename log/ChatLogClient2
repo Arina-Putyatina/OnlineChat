@@ -1,0 +1,18 @@
+июл. 10, 2022 2:17:04 PM Client.Main2 main
+INFO: Создан сокет
+июл. 10, 2022 2:17:07 PM Client.Main2 main
+INFO: Задано имя клиента: чат 2
+июл. 10, 2022 2:17:18 PM Client.Main2 toServer
+INFO: чат 2 -> server: привет
+июл. 10, 2022 2:17:18 PM Client.Main2 fromServer
+INFO: server -> чат 2: Сообщение 'привет' принято от чат 2
+июл. 10, 2022 2:17:24 PM Client.Main2 toServer
+INFO: чат 2 -> server: как дела
+июл. 10, 2022 2:17:24 PM Client.Main2 fromServer
+INFO: server -> чат 2: Сообщение 'как дела' принято от чат 2
+июл. 10, 2022 2:17:47 PM Client.Main2 toServer
+INFO: чат 2 -> server: exit
+июл. 10, 2022 2:17:47 PM Client.Main2 fromServer
+INFO: server -> чат 2: Сообщение 'exit' принято от чат 2
+июл. 10, 2022 2:17:47 PM Client.Main2 toServer
+INFO: чат 2 завершил чат

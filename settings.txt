@@ -1,0 +1,5 @@
+{
+  "port": 25555,
+  "server": "127.0.0.1",
+  "stopCommand": "exit"
+}

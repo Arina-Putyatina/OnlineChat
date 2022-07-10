@@ -1,0 +1,48 @@
+июл. 10, 2022 1:06:52 PM Server.Main chat
+INFO: Подключился новый клиент
+июл. 10, 2022 1:07:01 PM Server.Main chat
+INFO: Установлено имя чата чат1
+июл. 10, 2022 1:07:05 PM Server.Main chat
+INFO: Server -> чат1: Сообщение 'привет' принято от чат1
+июл. 10, 2022 1:07:11 PM Server.Main chat
+INFO: Подключился новый клиент
+июл. 10, 2022 1:07:15 PM Server.Main chat
+INFO: Установлено имя чата чат 2
+июл. 10, 2022 1:07:15 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат1: Подключился новый участник чат 2
+июл. 10, 2022 1:07:20 PM Server.Main chat
+INFO: Server -> чат 2: Сообщение 'доброе утро' принято от чат 2
+июл. 10, 2022 1:07:27 PM Server.Main chat
+INFO: Server -> чат 2: Сообщение 'exit' принято от чат 2
+июл. 10, 2022 1:07:27 PM Server.Main chat
+INFO: Завершения чата с чат 2
+июл. 10, 2022 1:07:39 PM Server.Main chat
+INFO: Server -> чат1: Сообщение 'exit' принято от чат1
+июл. 10, 2022 1:07:39 PM Server.Main chat
+INFO: Завершения чата с чат1
+июл. 10, 2022 2:16:49 PM Server.Main chat
+INFO: Подключился новый клиент
+июл. 10, 2022 2:16:54 PM Server.Main chat
+INFO: Установлено имя чата чат 1
+июл. 10, 2022 2:17:00 PM Server.Main chat
+INFO: Server -> чат 1: Сообщение 'первое сообщение' принято от чат 1
+июл. 10, 2022 2:17:04 PM Server.Main chat
+INFO: Подключился новый клиент
+июл. 10, 2022 2:17:07 PM Server.Main chat
+INFO: Установлено имя чата чат 2
+июл. 10, 2022 2:17:07 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат 1: Подключился новый участник чат 2
+июл. 10, 2022 2:17:18 PM Server.Main chat
+INFO: Server -> чат 2: Сообщение 'привет' принято от чат 2
+июл. 10, 2022 2:17:24 PM Server.Main chat
+INFO: Server -> чат 2: Сообщение 'как дела' принято от чат 2
+июл. 10, 2022 2:17:37 PM Server.Main chat
+INFO: Server -> чат 1: Сообщение 'второе сообщение' принято от чат 1
+июл. 10, 2022 2:17:42 PM Server.Main chat
+INFO: Server -> чат 1: Сообщение 'exit' принято от чат 1
+июл. 10, 2022 2:17:42 PM Server.Main chat
+INFO: Завершения чата с чат 1
+июл. 10, 2022 2:17:47 PM Server.Main chat
+INFO: Server -> чат 2: Сообщение 'exit' принято от чат 2
+июл. 10, 2022 2:17:47 PM Server.Main chat
+INFO: Завершения чата с чат 2
