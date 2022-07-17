@@ -1,48 +1,62 @@
-июл. 10, 2022 1:06:52 PM Server.Main chat
+июл. 17, 2022 1:38:01 PM Server.Main chat
 INFO: Подключился новый клиент
-июл. 10, 2022 1:07:01 PM Server.Main chat
+июл. 17, 2022 1:38:06 PM Server.Main chat
+INFO: Подключился новый клиент
+июл. 17, 2022 1:38:09 PM Server.Main chat
+INFO: Подключился новый клиент
+июл. 17, 2022 1:38:12 PM Server.Main chat
 INFO: Установлено имя чата чат1
-июл. 10, 2022 1:07:05 PM Server.Main chat
+июл. 17, 2022 1:38:12 PM Server.Main sendMessageToAllChats
+INFO: Server -> : Подключился новый участник чат1
+июл. 17, 2022 1:38:12 PM Server.Main sendMessageToAllChats
+INFO: Server -> : Подключился новый участник чат1
+июл. 17, 2022 1:38:17 PM Server.Main chat
+INFO: Установлено имя чата чат2
+июл. 17, 2022 1:38:17 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат1: Подключился новый участник чат2
+июл. 17, 2022 1:38:17 PM Server.Main sendMessageToAllChats
+INFO: Server -> : Подключился новый участник чат2
+июл. 17, 2022 1:38:22 PM Server.Main chat
+INFO: Установлено имя чата чат3
+июл. 17, 2022 1:38:22 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат1: Подключился новый участник чат3
+июл. 17, 2022 1:38:22 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат2: Подключился новый участник чат3
+июл. 17, 2022 1:38:34 PM Server.Main sendMessages
+INFO: server: привет всем участникам
+июл. 17, 2022 1:38:34 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат1: server: привет всем участникам
+июл. 17, 2022 1:38:34 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат2: server: привет всем участникам
+июл. 17, 2022 1:38:34 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат3: server: привет всем участникам
+июл. 17, 2022 1:38:42 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат2: чат1: привет
+июл. 17, 2022 1:38:42 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат3: чат1: привет
+июл. 17, 2022 1:38:42 PM Server.Main chat
 INFO: Server -> чат1: Сообщение 'привет' принято от чат1
-июл. 10, 2022 1:07:11 PM Server.Main chat
-INFO: Подключился новый клиент
-июл. 10, 2022 1:07:15 PM Server.Main chat
-INFO: Установлено имя чата чат 2
-июл. 10, 2022 1:07:15 PM Server.Main sendMessageToAllChats
-INFO: Server -> чат1: Подключился новый участник чат 2
-июл. 10, 2022 1:07:20 PM Server.Main chat
-INFO: Server -> чат 2: Сообщение 'доброе утро' принято от чат 2
-июл. 10, 2022 1:07:27 PM Server.Main chat
-INFO: Server -> чат 2: Сообщение 'exit' принято от чат 2
-июл. 10, 2022 1:07:27 PM Server.Main chat
-INFO: Завершения чата с чат 2
-июл. 10, 2022 1:07:39 PM Server.Main chat
+июл. 17, 2022 1:38:51 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат1: чат3: добрый день
+июл. 17, 2022 1:38:51 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат2: чат3: добрый день
+июл. 17, 2022 1:38:51 PM Server.Main chat
+INFO: Server -> чат3: Сообщение 'добрый день' принято от чат3
+июл. 17, 2022 1:41:30 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат1: чат3: exit
+июл. 17, 2022 1:41:30 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат2: чат3: exit
+июл. 17, 2022 1:41:30 PM Server.Main chat
+INFO: Server -> чат3: Сообщение 'exit' принято от чат3
+июл. 17, 2022 1:41:30 PM Server.Main chat
+INFO: Завершения чата с чат3
+июл. 17, 2022 1:41:37 PM Server.Main sendMessageToAllChats
+INFO: Server -> чат1: чат2: exit
+июл. 17, 2022 1:41:37 PM Server.Main chat
+INFO: Server -> чат2: Сообщение 'exit' принято от чат2
+июл. 17, 2022 1:41:37 PM Server.Main chat
+INFO: Завершения чата с чат2
+июл. 17, 2022 1:41:42 PM Server.Main chat
 INFO: Server -> чат1: Сообщение 'exit' принято от чат1
-июл. 10, 2022 1:07:39 PM Server.Main chat
+июл. 17, 2022 1:41:42 PM Server.Main chat
 INFO: Завершения чата с чат1
-июл. 10, 2022 2:16:49 PM Server.Main chat
-INFO: Подключился новый клиент
-июл. 10, 2022 2:16:54 PM Server.Main chat
-INFO: Установлено имя чата чат 1
-июл. 10, 2022 2:17:00 PM Server.Main chat
-INFO: Server -> чат 1: Сообщение 'первое сообщение' принято от чат 1
-июл. 10, 2022 2:17:04 PM Server.Main chat
-INFO: Подключился новый клиент
-июл. 10, 2022 2:17:07 PM Server.Main chat
-INFO: Установлено имя чата чат 2
-июл. 10, 2022 2:17:07 PM Server.Main sendMessageToAllChats
-INFO: Server -> чат 1: Подключился новый участник чат 2
-июл. 10, 2022 2:17:18 PM Server.Main chat
-INFO: Server -> чат 2: Сообщение 'привет' принято от чат 2
-июл. 10, 2022 2:17:24 PM Server.Main chat
-INFO: Server -> чат 2: Сообщение 'как дела' принято от чат 2
-июл. 10, 2022 2:17:37 PM Server.Main chat
-INFO: Server -> чат 1: Сообщение 'второе сообщение' принято от чат 1
-июл. 10, 2022 2:17:42 PM Server.Main chat
-INFO: Server -> чат 1: Сообщение 'exit' принято от чат 1
-июл. 10, 2022 2:17:42 PM Server.Main chat
-INFO: Завершения чата с чат 1
-июл. 10, 2022 2:17:47 PM Server.Main chat
-INFO: Server -> чат 2: Сообщение 'exit' принято от чат 2
-июл. 10, 2022 2:17:47 PM Server.Main chat
-INFO: Завершения чата с чат 2

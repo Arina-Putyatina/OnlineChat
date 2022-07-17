@@ -1,36 +1,22 @@
-июл. 10, 2022 1:06:52 PM Client.Main main
+июл. 17, 2022 1:38:01 PM Client.Client main
 INFO: Создан сокет
-июл. 10, 2022 1:07:01 PM Client.Main main
+июл. 17, 2022 1:38:12 PM Client.Client main
 INFO: Задано имя клиента: чат1
-июл. 10, 2022 1:07:05 PM Client.Main toServer
+июл. 17, 2022 1:38:17 PM Client.Client fromServer
+INFO: Подключился новый участник чат2
+июл. 17, 2022 1:38:22 PM Client.Client fromServer
+INFO: Подключился новый участник чат3
+июл. 17, 2022 1:38:34 PM Client.Client fromServer
+INFO: server: привет всем участникам
+июл. 17, 2022 1:38:42 PM Client.Client toServer
 INFO: чат1 -> server: привет
-июл. 10, 2022 1:07:05 PM Client.Main fromServer
-INFO: server -> чат1: Сообщение 'привет' принято от чат1
-июл. 10, 2022 1:07:15 PM Client.Main fromServer
-INFO: server -> чат1: Подключился новый участник чат 2
-июл. 10, 2022 1:07:39 PM Client.Main toServer
+июл. 17, 2022 1:38:51 PM Client.Client fromServer
+INFO: чат3: добрый день
+июл. 17, 2022 1:41:30 PM Client.Client fromServer
+INFO: чат3: exit
+июл. 17, 2022 1:41:37 PM Client.Client fromServer
+INFO: чат2: exit
+июл. 17, 2022 1:41:42 PM Client.Client toServer
 INFO: чат1 -> server: exit
-июл. 10, 2022 1:07:39 PM Client.Main fromServer
-INFO: server -> чат1: Сообщение 'exit' принято от чат1
-июл. 10, 2022 1:07:39 PM Client.Main toServer
+июл. 17, 2022 1:41:42 PM Client.Client toServer
 INFO: чат1 завершил чат
-июл. 10, 2022 2:16:49 PM Client.Main main
-INFO: Создан сокет
-июл. 10, 2022 2:16:54 PM Client.Main main
-INFO: Задано имя клиента: чат 1
-июл. 10, 2022 2:17:00 PM Client.Main toServer
-INFO: чат 1 -> server: первое сообщение
-июл. 10, 2022 2:17:00 PM Client.Main fromServer
-INFO: server -> чат 1: Сообщение 'первое сообщение' принято от чат 1
-июл. 10, 2022 2:17:07 PM Client.Main fromServer
-INFO: server -> чат 1: Подключился новый участник чат 2
-июл. 10, 2022 2:17:37 PM Client.Main toServer
-INFO: чат 1 -> server: второе сообщение
-июл. 10, 2022 2:17:37 PM Client.Main fromServer
-INFO: server -> чат 1: Сообщение 'второе сообщение' принято от чат 1
-июл. 10, 2022 2:17:42 PM Client.Main toServer
-INFO: чат 1 -> server: exit
-июл. 10, 2022 2:17:42 PM Client.Main fromServer
-INFO: server -> чат 1: Сообщение 'exit' принято от чат 1
-июл. 10, 2022 2:17:42 PM Client.Main toServer
-INFO: чат 1 завершил чат

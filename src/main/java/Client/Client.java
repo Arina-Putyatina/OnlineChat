@@ -12,7 +12,7 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class Main {
+public class Client {
 
     private static Logger logger = ChatLogg.createLogger("log/ChatLogClient", "Client");
     private static String name = "";
@@ -41,17 +41,18 @@ public class Main {
             logger.info("Задано имя клиента: " + name);
             out.println(name);
 
+            System.out.println("Можно начинать общение!");
             new Thread(() -> toServer(stopCommand)).start();
             new Thread(() -> fromServer(stopCommand)).start();
 
         } catch (IOException ex) {
             logger.log(Level.WARNING, "Ошибка клиента", ex);
+            ex.printStackTrace();
         }
     }
 
     public static void toServer(String stopCommand) {
         while (true) {
-            System.out.println("Введите текст для отправки на сервер");
             String result = scanner.nextLine();
             logger.info(name + " -> server: " + result);
             out.println(result);
@@ -70,10 +71,12 @@ public class Main {
                 if (msg == null || msg.equals(stopCommand)) {
                     break;
                 }
-                logger.info("server -> " + name + ": " + msg);
+                logger.info(msg);
+                System.out.println(msg);
             }
         } catch (IOException ex) {
             logger.log(Level.WARNING, "Ошибка клиента", ex);
+            ex.printStackTrace();
         }
     }
 }
